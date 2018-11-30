@@ -1,4 +1,4 @@
-package com.ctc.lambda;
+package com.ctc.lambda.normal;
 
 public class Apple {
     private int weight;
